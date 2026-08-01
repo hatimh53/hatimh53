@@ -113,6 +113,10 @@ I enjoy transforming raw data into meaningful insights and building data-driven 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
+<a href="https://hatimh53.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/My_Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+  
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hatimhamidi110@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
