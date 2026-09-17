@@ -1,4 +1,5 @@
-<h1 align="center">Hello 👋, I'm Hatim Hamidi</h1>
+![Profile Views](https://komarev.com/ghpvc/?username=hatimh53&style=flat&color=ffcc00&label=Profile+views)<h1 align="center">Hello 👋, I'm Hatim Hamidi</h1>  
+
 
 <h3 align="center">📊 Data Analyst</h3>
 
