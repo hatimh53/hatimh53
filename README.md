@@ -73,9 +73,10 @@ I enjoy transforming raw data into meaningful insights and building data-driven 
 
 ## 📂 Featured Projects
 
+- 👥 [Telco Customer Churn Prediction](https://github.com/hatimh53/Telco-Customer-Churn-Prediction) — Customer Churn Analysis & Predictive Model 
 - 📊 [NVIDIA Sales Analysis](https://github.com/hatimh53/Nvidia-Sales-Analysis) — Sales Trend Analysis & Business Insights
 - 🛒 [Retail Sales Analysis](https://github.com/hatimh53/Retail-Sales-Analysis) — Exploratory Data Analysis & Customer Insights
-- 🪔 [Diwali Sales Analysis](https://github.com/hatimh53/Diwali-Sales-Analysis) — Customer Behaviour Analysis & Data Visualization
+- ✈️ [Airline Satisfaction Prediction](https://github.com/hatimh53/Airline-Satisfaction-Prediction)  — Airline Passenger Satisfaction Prediction & Analysis
 
 ---
 <h2 align="center">🔥 Contribution Graph</h2>
@@ -84,7 +85,7 @@ I enjoy transforming raw data into meaningful insights and building data-driven 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hatimh53&theme=tokyo-night&hide_border=true" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=hatimh53&show_icons=true&theme=tokyonight&hide_border=true" />
